@@ -1,6 +1,6 @@
 export default class PokeApi {
   constructor() {
-    this.base = 'https://pokeapi.co/api/v2';
+    this.base = '/assets/data/';
   }
 
   async request(path) {
@@ -9,15 +9,15 @@ export default class PokeApi {
   }
 
   async getPokemon(identifier) {
-    return await this.request('/pokemon/' + identifier);
+    return await this.request(identifier + ".json");
   }
 
   async getList(limit) {
-    return await this.request('/pokemon?limit=' + limit);
+    return await this.request("limit.json");
   }
 
   async getSpecies(identifier) {
-    return await this.request('/pokemon-species/' + identifier);
+    return await this.request("species.json");
   }
 
 }
