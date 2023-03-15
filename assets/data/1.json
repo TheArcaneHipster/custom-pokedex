@@ -1,0 +1,47 @@
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "stuff"
+            }
+        },
+        {
+            "ability": {
+                "name": "things"
+            }
+        }
+    ],
+    "base_experience": 69,
+    "color": {
+        "name": "green"
+    },
+    "height": 42,
+    "id": 1,
+    "moves": [
+        {
+            "move": {
+                "name": "razor-wind"
+            }
+        }
+    ],
+    "name": "TheChucklingAtom",
+    "order": 1,
+    "sprites": "/assets/images/atomImage.jpg",
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "programer",
+                "url": ""
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "bot daddy",
+                "url": ""
+            }
+        }
+    ],
+    "weight": 69
+}
