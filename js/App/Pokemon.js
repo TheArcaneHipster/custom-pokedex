@@ -1,11 +1,11 @@
 export default class Pokemon {
 
-  constructor(id, name, color, infoBox, moves, types, sprite) {
+  constructor(id, name, color, infoBox, images, types, sprite) {
     this._id = id;
     this._name = name;
     this._color = color;
     this._infoBox = infoBox;
-    this._moves = moves;
+    this._images = images;
     this._types = types;
     this._sprite = sprite;
   }
@@ -26,8 +26,8 @@ export default class Pokemon {
     return this._infoBox
   }
 
-  getMoves() {
-    return this._moves;
+  getImages() {
+    return this._images;
   }
 
   getTypes() {
@@ -44,8 +44,8 @@ export default class Pokemon {
       api_pokemon.name,
       api_pokemon.color.name,
       api_pokemon.infoBox,
-      api_pokemon.moves.map((move) => {
-        return move.move.name;
+      api_pokemon.images.map((image) => {
+        return image.image.url;
       }),
       api_pokemon.types.map((type) => {
         return type.type.name;
@@ -60,7 +60,7 @@ export default class Pokemon {
       data._name,
       data._color,
       data._infoBox,
-      data._moves,
+      data._images,
       data._types,
       data._sprite
     );

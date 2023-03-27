@@ -6,7 +6,7 @@ import Pokemon from "./App/Pokemon.js";
 let pokemon_id_el = document.querySelector('div.pokemon-id');
 let pokemon_types_el = document.querySelector('div.pokemon-types');
 let pokemon_name_el = document.querySelector('div.pokemon-name');
-let pokemon_moves_el = document.querySelectorAll('div.pokemon-moves > div > div');
+let pokemon_moves_el = document.querySelectorAll('div.pokemon-moves > div > img');
 let pokemon_info_el = document.querySelector('div.pokemon-info');
 
 // Event listener for "PokemonUpdated".
@@ -27,11 +27,11 @@ document.body.addEventListener('PokemonUpdated', (event) => {
   pokemon_id_el.innerHTML = '#' + pokemon.getId();
   pokemon_types_el.innerHTML = pokemon.getTypes().join(', ');
   pokemon_moves_el.forEach((el, index) => {
-    let moves = pokemon.getMoves();
+    let images = pokemon.getImages();
 
-    el.innerHTML = '';
-    if (moves.length > index) {
-      el.innerHTML = pokemon.getMoves()[index];
+    el.backgroundImage = '';
+    if (images.length > index) {
+      el.src = images[index];
     }
   });
 }, false);

@@ -4,10 +4,15 @@
     },
     "id": 1,
     "infoBox": "This is test text and stuff.",
-    "moves": [
+    "images": [
         {
-            "move": {
-                "name": "razor-wind"
+            "image": {
+                "url": "/assets/images/atomImage.jpg"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/atomImage.jpg"
             }
         }
     ],
