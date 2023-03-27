@@ -22,10 +22,7 @@ document.body.addEventListener('PokemonUpdated', (event) => {
   // Update metadata.
   pokemon_name_el.innerHTML = pokemon.getName();
   pokemon_info_el.innerHTML = [
-    'Height: ' + (pokemon.getHeight() * 10) + 'cm',
-    'Weight: ' + (pokemon.getWeight() / 10) + 'kg',
-    'Base xp: ' + pokemon.getBaseExperience(),
-    'Abilities: ' + pokemon.getAbilities().join(', '),
+    pokemon.getInfoBox()
   ].join('<br />');
   pokemon_id_el.innerHTML = '#' + pokemon.getId();
   pokemon_types_el.innerHTML = pokemon.getTypes().join(', ');
