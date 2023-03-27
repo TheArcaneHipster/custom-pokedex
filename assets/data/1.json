@@ -1,36 +1,51 @@
 {
     "color": {
-        "name": "green"
+        "name": "purple"
     },
     "id": 1,
-    "infoBox": "This is test text and stuff.",
+    "infoBox": "This wizard's power knows no bounds. He is the archmage, the all powerful, the pogenitor of all things magical",
     "images": [
         {
             "image": {
-                "url": "/assets/images/atomImage.jpg"
+                "url": "/assets/images/Base72.png"
             }
         },
         {
             "image": {
-                "url": "/assets/images/atomImage.jpg"
+                "url": "/assets/images/Book72.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/Staff72.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/Crystal72.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/1Year72.png"
             }
         }
     ],
-    "name": "TheChucklingAtom",
+    "name": "The_Arcane_Hipster",
     "order": 1,
-    "sprites": "/assets/images/atomImage.jpg",
+    "sprites": "/assets/images/HipsterImage.png",
     "types": [
         {
             "slot": 1,
             "type": {
-                "name": "programer",
+                "name": "Archmage",
                 "url": ""
             }
         },
         {
             "slot": 2,
             "type": {
-                "name": "bot daddy",
+                "name": "Streamer",
                 "url": ""
             }
         }
