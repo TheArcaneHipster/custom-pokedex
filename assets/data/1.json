@@ -1,26 +1,18 @@
 {
-    "abilities": [
-        {
-            "ability": {
-                "name": "stuff"
-            }
-        },
-        {
-            "ability": {
-                "name": "things"
-            }
-        }
-    ],
-    "base_experience": 69,
     "color": {
         "name": "green"
     },
-    "height": 42,
     "id": 1,
-    "moves": [
+    "infoBox": "This is test text and stuff.",
+    "images": [
         {
-            "move": {
-                "name": "razor-wind"
+            "image": {
+                "url": "/assets/images/atomImage.jpg"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/atomImage.jpg"
             }
         }
     ],
@@ -42,6 +34,5 @@
                 "url": ""
             }
         }
-    ],
-    "weight": 69
+    ]
 }
