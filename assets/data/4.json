@@ -1,9 +1,9 @@
 {
     "color": {
-        "name": "green"
+        "name": "red"
     },
-    "id": 2,
-    "infoBox": "This code crunching mage can be found on the computer at all times of the day and night. He is known to have a heart of gold and other wizards who spot him are blessed with good luck!",
+    "id": 3,
+    "infoBox": "The wizard squaddy_p hails from a land called Hyrule. He somehow made his way to Hipster's stream and his magical prowess earned him a Mod sword.",
     "images": [
         {
             "image": {
@@ -21,9 +21,9 @@
             }
         }
     ],
-    "name": "TheChucklingAtom",
-    "order": 2,
-    "sprites": "/assets/images/atomImage.jpg",
+    "name": "Squaddy_P",
+    "order": 3,
+    "sprites": "/assets/imagesSquaddyImage.png",
     "types": [
         {
             "slot": 1,
@@ -35,7 +35,7 @@
         {
             "slot": 2,
             "type": {
-                "name": "Coder",
+                "name": "Gamer",
                 "url": ""
             }
         }

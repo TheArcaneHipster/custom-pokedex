@@ -1,9 +1,9 @@
 {
     "color": {
-        "name": "green"
+        "name": "black"
     },
-    "id": 2,
-    "infoBox": "This code crunching mage can be found on the computer at all times of the day and night. He is known to have a heart of gold and other wizards who spot him are blessed with good luck!",
+    "id": 3,
+    "infoBox": "This ghostly mage is known as the best Mod around but that's not all... Dadgar is an amazing streamer too! twitch.tv/dadgarnana",
     "images": [
         {
             "image": {
@@ -21,9 +21,9 @@
             }
         }
     ],
-    "name": "TheChucklingAtom",
+    "name": "DadGarNaga",
     "order": 2,
-    "sprites": "/assets/images/atomImage.jpg",
+    "sprites": "/assets/images/NagaImage.png",
     "types": [
         {
             "slot": 1,
@@ -35,7 +35,7 @@
         {
             "slot": 2,
             "type": {
-                "name": "Coder",
+                "name": "Streamer",
                 "url": ""
             }
         }

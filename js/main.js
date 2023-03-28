@@ -29,7 +29,7 @@ document.body.addEventListener('PokemonUpdated', (event) => {
   pokemon_moves_el.forEach((el, index) => {
     let images = pokemon.getImages();
 
-    el.backgroundImage = '';
+    el.src = '';
     if (images.length > index) {
       el.src = images[index];
     }
