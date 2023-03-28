@@ -1,0 +1,23 @@
+{
+    "count": 1281,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "The_Arcane_Hipster",
+            "url": "/assets/data/1.json"
+        },
+        {
+            "name": "TheChucklingAtom",
+            "url": "/assets/data/2.json"
+        },
+        {
+            "name": "DadGarNaga",
+            "url": "/assets/data/3.json"
+        },
+        {
+            "name": "Squaddy_P",
+            "url": "/assets/data/4.json"
+        }
+    ]
+}

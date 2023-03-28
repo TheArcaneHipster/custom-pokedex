@@ -13,7 +13,7 @@ export default class PokeApi {
   }
 
   async getList(limit) {
-    return await this.request("limit.json");
+    return await this.request("list.json");
   }
 
   async getSpecies(identifier) {
