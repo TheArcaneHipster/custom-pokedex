@@ -2,7 +2,7 @@
     "color": {
         "name": "red"
     },
-    "id": 3,
+    "id": 4,
     "infoBox": "The wizard squaddy_p hails from a land called Hyrule. He somehow made his way to Hipster's stream and his magical prowess earned him a Mod sword.",
     "images": [
         {
@@ -22,8 +22,8 @@
         }
     ],
     "name": "Squaddy_P",
-    "order": 3,
-    "sprites": "/assets/imagesSquaddyImage.png",
+    "order": 4,
+    "sprites": "/assets/images/newSquaddyImage.png",
     "types": [
         {
             "slot": 1,

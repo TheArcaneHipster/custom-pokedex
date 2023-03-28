@@ -22,8 +22,8 @@
         }
     ],
     "name": "DadGarNaga",
-    "order": 2,
-    "sprites": "/assets/images/NagaImage.png",
+    "order": 3,
+    "sprites": "/assets/images/newNagaImage.png",
     "types": [
         {
             "slot": 1,
