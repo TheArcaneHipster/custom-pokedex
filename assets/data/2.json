@@ -1,0 +1,43 @@
+{
+    "color": {
+        "name": "green"
+    },
+    "id": 2,
+    "infoBox": "This code crunching mage can be found on the computer at all times of the day and night. He is known to have a heart of gold and other wizards who spot him are blessed with good luck!",
+    "images": [
+        {
+            "image": {
+                "url": "/assets/images/ModSword.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/Base72.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/Book72.png"
+            }
+        }
+    ],
+    "name": "TheChucklingAtom",
+    "order": 2,
+    "sprites": "/assets/images/atomImage.jpg",
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "Mod",
+                "url": ""
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "Programmer",
+                "url": ""
+            }
+        }
+    ]
+}
