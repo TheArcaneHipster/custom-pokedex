@@ -1,0 +1,43 @@
+{
+    "color": {
+        "name": "green"
+    },
+    "id": 4,
+    "infoBox": "This powerful wizard is a force to be reckoned with! It is rumored that if you do not get on her good side you very well may be turned into a BISH. (temporarily) https://www.twitch.tv/satanicbipanic ",
+    "images": [
+        {
+            "image": {
+                "url": "/assets/images/FounderBadge.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/Base72.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/Book72.png"
+            }
+        }
+    ],
+    "name": "SatanicbiPanic",
+    "order": 5,
+    "sprites": "/assets/images/SatanicImage.png",
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "Viewer",
+                "url": ""
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "Streamer",
+                "url": ""
+            }
+        }
+    ]
+}
