@@ -22,6 +22,10 @@
         {
             "name": "SatanicbiPanic",
             "url": "/assets/data/5.json"
+        },
+        {
+            "name": "Astraphel",
+            "url": "/assets/data/6.json"
         }
     ]
 }

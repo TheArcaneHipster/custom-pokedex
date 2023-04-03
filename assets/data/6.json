@@ -1,0 +1,48 @@
+{
+    "color": {
+        "name": "pink"
+    },
+    "id": 6,
+    "infoBox": "Astraphel is a legendary mage of the chat. She was the first to obtain VIP status and with good reason. Her magic is so pure it is rumored that her charm person can work on ANY friend or foe! ",
+    "images": [
+        {
+            "image": {
+                "url": "/assets/images/FounderBadge.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/VIPBadge.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/Base72.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/Book72.png"
+            }
+        }
+    ],
+    "name": "Astraphel",
+    "order": 6,
+    "sprites": "/assets/images/AstraImage.png",
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "Viewer",
+                "url": ""
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "VIP",
+                "url": ""
+            }
+        }
+    ]
+}
