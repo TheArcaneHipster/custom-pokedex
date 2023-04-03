@@ -1,9 +1,9 @@
 {
     "color": {
-        "name": "pink"
+        "name": "white"
     },
-    "id": 6,
-    "infoBox": "Astraphel is a legendary mage of the chat. She was the first to obtain VIP status and with good reason. Her magic is so pure it is rumored that her charm person can work on ANY friend or foe! ",
+    "id": 9,
+    "infoBox": "Young mages are instructed to take caution when they encounter Dwagon. It is well known that she is the most aggressive of her kind. Don't let that fool you though, she will always help her opponents back up and pat their head after winning the fight!",
     "images": [
         {
             "image": {
@@ -26,21 +26,21 @@
             }
         }
     ],
-    "name": "Astraphel",
-    "order": 6,
+    "name": "DwagonxPrincess",
+    "order": 9,
     "sprites": "/assets/images/AstraImage.png",
     "types": [
         {
             "slot": 1,
             "type": {
-                "name": "VFounder",
+                "name": "Founder",
                 "url": ""
             }
         },
         {
             "slot": 2,
             "type": {
-                "name": "VIP",
+                "name": "Viewer",
                 "url": ""
             }
         }
