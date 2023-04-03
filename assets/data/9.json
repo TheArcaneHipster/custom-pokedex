@@ -12,11 +12,6 @@
         },
         {
             "image": {
-                "url": "/assets/images/VIPBadge.png"
-            }
-        },
-        {
-            "image": {
                 "url": "/assets/images/Base72.png"
             }
         },
@@ -28,7 +23,7 @@
     ],
     "name": "DwagonxPrincess",
     "order": 9,
-    "sprites": "/assets/images/AstraImage.png",
+    "sprites": "/assets/images/DwagonImage.png",
     "types": [
         {
             "slot": 1,
