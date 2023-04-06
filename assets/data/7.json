@@ -1,0 +1,33 @@
+{
+    "color": {
+        "name": "Red"
+    },
+    "id": 7,
+    "infoBox": "Little is known about how Tina has become the most powerful familiar in the land. Her magic emanates so strongly that just a rub of her chin can bring good luck. You will often find her napping behind Hipster as he streams.",
+    "images": [
+        {
+            "image": {
+                "url": "/assets/images/1Year72.png"
+            }
+        }
+    ],
+    "name": "Martina",
+    "order": 7,
+    "sprites": "/assets/images/TinaImage.png",
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "Dog",
+                "url": ""
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "Familiar",
+                "url": ""
+            }
+        }
+    ]
+}
