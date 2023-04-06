@@ -2,7 +2,7 @@
     "color": {
         "name": "white"
     },
-    "id": 7,
+    "id": 9,
     "infoBox": "Young mages are instructed to take caution when they encounter Dwagon. It is well known that she is the most aggressive of her kind. Don't let that fool you though, she will always help her opponents back up and pat their head after winning the fight!",
     "images": [
         {
@@ -22,7 +22,7 @@
         }
     ],
     "name": "DwagonxPrincess",
-    "order": 7,
+    "order": 9,
     "sprites": "/assets/images/DwagonImage.png",
     "types": [
         {

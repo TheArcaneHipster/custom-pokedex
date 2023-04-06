@@ -1,46 +1,31 @@
 {
     "color": {
-        "name": "pink"
+        "name": "blue"
     },
-    "id": 6,
-    "infoBox": "Astraphel is a legendary mage of the chat. She was the first to obtain VIP status and with good reason. Her magic is so pure it is rumored that her charm person can work on ANY friend or foe! ",
+    "id": 7,
+    "infoBox": "Ashes_of_enoch is more commonly known as Sammy the silly slime. While many believe slimes to contain lesser magical potential, this silly slime dispells that rumor in an instant! Check out their creativity and magical prowess at twitch.tv/ashes_of_enoch",
     "images": [
-        {
-            "image": {
-                "url": "/assets/images/FounderBadge.png"
-            }
-        },
-        {
-            "image": {
-                "url": "/assets/images/VIPBadge.png"
-            }
-        },
         {
             "image": {
                 "url": "/assets/images/Base72.png"
             }
-        },
-        {
-            "image": {
-                "url": "/assets/images/Book72.png"
-            }
         }
     ],
-    "name": "Astraphel",
-    "order": 6,
-    "sprites": "/assets/images/AstraImage.png",
+    "name": "Ashes_of_enoch",
+    "order": 7,
+    "sprites": "/assets/images/SammyImage.png",
     "types": [
         {
             "slot": 1,
             "type": {
-                "name": "VFounder",
+                "name": "Viewer",
                 "url": ""
             }
         },
         {
             "slot": 2,
             "type": {
-                "name": "VIP",
+                "name": "Streamer",
                 "url": ""
             }
         }

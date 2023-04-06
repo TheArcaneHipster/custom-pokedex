@@ -1,18 +1,13 @@
 {
     "color": {
-        "name": "pink"
+        "name": "green"
     },
-    "id": 5,
-    "infoBox": "Astraphel is a legendary mage of the chat. She was the first to obtain VIP status and with good reason. Her magic is so pure it is rumored that her charm person can work on ANY friend or foe! ",
+    "id": 8,
+    "infoBox": "This powerful wizard is a force to be reckoned with! It is rumored that if you do not get on her good side you very well may be turned into a BISH. (temporarily) https://www.twitch.tv/satanicbipanic ",
     "images": [
         {
             "image": {
                 "url": "/assets/images/FounderBadge.png"
-            }
-        },
-        {
-            "image": {
-                "url": "/assets/images/VIPBadge.png"
             }
         },
         {
@@ -26,21 +21,21 @@
             }
         }
     ],
-    "name": "Astraphel",
-    "order": 5,
-    "sprites": "/assets/images/AstraImage.png",
+    "name": "SatanicbiPanic",
+    "order": 8,
+    "sprites": "/assets/images/SatanicImage.png",
     "types": [
         {
             "slot": 1,
             "type": {
-                "name": "VFounder",
+                "name": "Viewer",
                 "url": ""
             }
         },
         {
             "slot": 2,
             "type": {
-                "name": "VIP",
+                "name": "Streamer",
                 "url": ""
             }
         }
