@@ -2,7 +2,7 @@
     "color": {
         "name": "blue"
     },
-    "id": 7,
+    "id": 6,
     "infoBox": "This mage is known as Sammy the silly slime. While many believe slimes have little magic, this silly slime dispells that rumor in an instant! Check out their creativity and magical prowess at twitch.tv/ashes_of_enoch",
     "images": [
         {
@@ -12,7 +12,7 @@
         }
     ],
     "name": "Ashes_of_enoch",
-    "order": 7,
+    "order": 6,
     "sprites": "/assets/images/SammyImage.png",
     "types": [
         {
