@@ -1,0 +1,43 @@
+{
+    "color": {
+        "name": "yellow"
+    },
+    "id": 10,
+    "infoBox": "Mac is known for his powerful conjuring magic. He can create a fun atmosphere out of thin air! He seems to never run out of positive energy.https://www.twitch.tv/da_mac_attack",
+    "images": [
+        {
+            "image": {
+                "url": "/assets/images/FounderBadge.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/Base72.png"
+            }
+        },
+        {
+            "image": {
+                "url": "/assets/images/Book72.png"
+            }
+        }
+    ],
+    "name": "Da_Mac_Attack",
+    "order": 10,
+    "sprites": "/assets/images/MacImage.png",
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "Viewer",
+                "url": ""
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "Streamer",
+                "url": ""
+            }
+        }
+    ]
+}
